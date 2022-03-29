@@ -1,6 +1,7 @@
 # GALAXY FOOTBALL CONSULTANCY PROJECT
+Visit the site [Click here](https://galaxyfootballconsultanc-70797.web.app/index.html).
 
-![Galaxy](https://github.com/nicholas124/galaxy-football-consultancy-site/blob/main/galaxySite1.PNG?alt=media&token=b114d43c-59bb-41ba-a740-3b462125b194)
+![GALAXY](https://github.com/nicholas124/galaxy-football-consultancy-site/blob/main/galaxySite1.PNG)
 
 ## Galaxy Football Consultancy Group
 is a registered Zambian Football Agency Company with registration No.320190011052 which was established in 2019 to contribute to the development of Zambian football as well as African football at large through.
