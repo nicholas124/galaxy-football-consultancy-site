@@ -1,5 +1,7 @@
 # GALAXY FOOTBALL CONSULTANCY PROJECT
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![alt text](https://github.com/nicholas124/galaxy-football-consultancy-site/blob/main/galaxySite1.PNG?raw=true)
+
 
 
 Thanks for downloading this template!
